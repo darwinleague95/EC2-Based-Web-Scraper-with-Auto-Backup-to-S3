@@ -88,4 +88,4 @@ Monitor EC2 CPU usage & logs.
 ✅ Bonus:
 Send a notification using SNS after each successful scrape.
 
-Use CloudWatch to trigger alerts if scraping fails.
+Use CloudWatch to trigger alerts if scraping fails
